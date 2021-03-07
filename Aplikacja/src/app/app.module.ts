@@ -10,7 +10,9 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ProductAlertsComponent
+    ProductAlertsComponent,
+    ProductListComponent,
+    TopBarComponent
   ],
   imports: [
     BrowserModule,
